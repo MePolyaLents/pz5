@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # How to use calculator:
 1. Run `python calculate.py`
@@ -7,15 +6,6 @@
 4. Enter figure sizes. Radius for circle, one side for square.
 5. Get the answer!
 
-||||||| parent of 86edb1c (L-05: Update Docs. Add user agreement info)
-=======
-# User agreement 
-
-Please check out License Agreement for personal usage terms and limitations
-
----
-
->>>>>>> 86edb1c (L-05: Update Docs. Add user agreement info)
 # Math formulas
 ## Area
 - Circle: `S = πR²`
